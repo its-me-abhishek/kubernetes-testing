@@ -10,4 +10,3 @@
 - backend connection to syncserver ----- shall be a different protocol --- fix: use service name instead of localhost in env.
 
 TO-DO:
-Log all commands in a shell file
